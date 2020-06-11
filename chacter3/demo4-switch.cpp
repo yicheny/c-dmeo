@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//通过单一表达式控制程序流程分支时，使用switch通常比if效果更好 
 int main(void){
 	int x;
 		
